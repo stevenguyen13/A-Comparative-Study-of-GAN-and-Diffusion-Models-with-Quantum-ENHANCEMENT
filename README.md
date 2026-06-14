@@ -1,4 +1,4 @@
-# A-Comparative-Study-of-GAN-and-Diffusion-Models-with-Quantum-ENHANCEMENT# Adversarial Attacks on Steganalyzers: A Comparative Study of GAN and Diffusion Models with Quantum Enhancement
+# Adversarial Attacks on Steganalyzers: A Comparative Study of GAN and Diffusion Models with Quantum Enhancement
 
 ## 📌 Project Overview
 This repository contains the source code, reports, and presentation slides for the Final Project of the CSC14101 Course.
