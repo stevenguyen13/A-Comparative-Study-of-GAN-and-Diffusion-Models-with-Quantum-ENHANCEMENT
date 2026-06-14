@@ -1,0 +1,14 @@
+# Ignore large datasets and model checkpoints
+**/Datasets/
+**/checkpoints/*.pth
+**/*.pt
+**/*.zip
+**/*.tar.gz
+# Ignore LaTeX temporary files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+.DS_Store

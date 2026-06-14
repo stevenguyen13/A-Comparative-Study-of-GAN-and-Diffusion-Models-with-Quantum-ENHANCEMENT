@@ -1,0 +1,24 @@
+{
+  "white_box_A_xunet": {
+    "asr": 100.0,
+    "psnr": 57.85631782587152,
+    "mer": 100.0
+  },
+  "black_box_x2s": {
+    "asr": 51.0,
+    "psnr": 57.85631782587152,
+    "mer": 100.0
+  },
+  "white_box_B_srnet": {
+    "asr": 99.8,
+    "psnr": 53.0472222038166,
+    "mer": 100.0
+  },
+  "black_box_s2x": {
+    "asr": 85.5,
+    "psnr": 53.0472222038166,
+    "mer": 100.0
+  },
+  "retention_x2s_pct": 51.0,
+  "retention_s2x_pct": 85.67134268537075
+}
